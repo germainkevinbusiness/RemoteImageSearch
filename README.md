@@ -11,6 +11,10 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata),
 [Kotlin Flows](https://developer.android.com/kotlin/flow).
 
+## Video demo
+
+![Video 1](/screenshots/device-2021-11-12-172727.webm)
+
 ## Screenshots
 
 ### First screenshot
