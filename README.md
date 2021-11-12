@@ -13,28 +13,30 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ## Screenshots
 
-![Screenshot 7](/screenshots/device-2021-11-12-151237.png)
+### First screenshot
 
-##
+![Screenshot 1](/screenshots/device-2021-11-12-151237.png)
 
-![Screenshot 6](/screenshots/device-2021-11-12-151222.png)
+### Second screenshot
 
-##
+![Screenshot 2](/screenshots/device-2021-11-12-151222.png)
 
-![Screenshot 5](/screenshots/device-2021-11-12-151138.png)
+### Third screenshot
 
-##
+![Screenshot 3](/screenshots/device-2021-11-12-151138.png)
 
-![Screenshot 3](/screenshots/device-2021-11-12-143904.png)
+### Fourth screenshot
 
-##
+![Screenshot 4](/screenshots/device-2021-11-12-143904.png)
 
-![Screenshot 4](/screenshots/device-2021-11-12-150341.png)
+### Fifth screenshot
 
-##
+![Screenshot 5](/screenshots/device-2021-11-12-150341.png)
 
-![Screenshot 2](/screenshots/device-2021-11-12-143839.png)
+## Sixth screenshot
 
-##
+![Screenshot 6](/screenshots/device-2021-11-12-143839.png)
 
-![Screenshot 1](/screenshots/device-2021-11-12-143646.png)
+### Seventh screenshot
+
+![Screenshot 7](/screenshots/device-2021-11-12-143646.png)
