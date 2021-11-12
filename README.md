@@ -37,6 +37,6 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ![Screenshot 6](/screenshots/device-2021-11-12-143839.png)
 
-### Seventh screenshot
+### Dark mode screenshot
 
 ![Screenshot 7](/screenshots/device-2021-11-12-143646.png)
