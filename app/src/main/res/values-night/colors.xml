@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#232d36</color>
+    <color name="colorPrimaryDark">#232d36</color>
+    <color name="colorAccent">#69a0ff</color>
+    <color name="colorAlert">#F44336</color>
+    <color name="colorSecondary">#232d36</color>
+    <color name="mTextColor">#FAFAFA</color>
+    <color name="textColorSecond">@android:color/darker_gray</color>
+    <color name="toolbarBackgroundColor">#232d36</color>
+    <color name="toolbarTextColor">@android:color/white</color>
+    <color name="backgroundColor">#101d25</color>
+</resources>

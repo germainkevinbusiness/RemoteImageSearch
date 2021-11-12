@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RemoteImageSearch" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorSecondary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image</item>
+        <item name="android:statusBarColor">@color/backgroundColor</item>
+    </style>
+
+    <style name="Theme.RemoteImageSearch.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+
+    <style name="Theme.RemoteImageSearch.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+    <!--Used by SaveShareResultActivity-->
+    <style name="Theme.RemoteImageSearch.AppBarOverlay1" parent="ThemeOverlay.MaterialComponents.Dark" />
+    <!--Used by SaveShareResultActivity-->
+    <style name="Theme.RemoteImageSearch.PopupOverlay1" parent="ThemeOverlay.MaterialComponents.Light" />
+</resources>

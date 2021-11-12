@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="250dp">
+
+    <ImageView
+        android:id="@+id/unsplash_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/photo_row_img_description" />
+
+    <View
+        android:id="@+id/gradient_view"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/black_white_gradient"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/unsplash_author"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:drawablePadding="4dp"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:drawableStartCompat="@drawable/ic_user"
+        app:layout_constraintBottom_toBottomOf="@id/gradient_view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/gradient_view"
+        tools:text="@string/app_name" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

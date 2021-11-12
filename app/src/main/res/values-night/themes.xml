@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RemoteImageSearch" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorPrimaryDark</item>
+        <!-- Customize your theme here. -->
+        <item name="popupMenuStyle">@style/Theme.RemoteImageSearch.PopupMenuStyle</item>
+    </style>
+
+    <style name="Theme.DeviseHT.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="Theme.RemoteImageSearch.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Dark" />
+    <!--Used by SaveShareResultActivity-->
+    <style name="Theme.RemoteImageSearch.AppBarOverlay1" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+    <!--Used by SaveShareResultActivity-->
+    <style name="Theme.RemoteImageSearch.PopupOverlay1" parent="ThemeOverlay.MaterialComponents.Dark" />
+
+    <style name="Theme.RemoteImageSearch.PopupMenuStyle" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">#313c42</item>
+        <item name="android:colorBackground">#313c42</item>
+    </style>
+</resources>
