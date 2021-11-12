@@ -13,7 +13,7 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ## Video demo
 
-[Link to the mp4 video demo](/screenshots/device-2021-11-12-172727.mp4)
+[Link to the mp4 video demo in the screenshots directory](/screenshots/device-2021-11-12-172727.mp4)
 
 ## Screenshots
 
