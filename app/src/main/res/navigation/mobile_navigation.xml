@@ -13,6 +13,9 @@
         <action
             android:id="@+id/action_galleryFragment_to_detailsFragment"
             app:destination="@id/detailsFragment" />
+        <action
+            android:id="@+id/action_galleryFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
     </fragment>
     <fragment
         android:id="@+id/detailsFragment"
@@ -23,5 +26,11 @@
             android:name="photo"
             app:argType="com.germainkevin.remoteimagesearch.api.data.UnsplashPhoto" />
     </fragment>
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.germainkevin.remoteimagesearch.ui.fragment.SettingsFragment"
+        android:label="@string/action_settings"
+        tools:layout="@layout/fragment_settings" />
 
 </navigation>

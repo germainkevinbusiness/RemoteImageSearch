@@ -42,10 +42,12 @@ class GalleryFragment : Fragment() {
             findNavController().navigate(action)
         }
         with(binding) {
+            val headerLoadStateAdapter = GalleryLoadStateAdapter(galleryPagingAdapter::retry)
+            val footerLoadStateAdapter = GalleryLoadStateAdapter(galleryPagingAdapter::retry)
             galleryRecyclerView.adapter =
                 galleryPagingAdapter.withLoadStateHeaderAndFooter(
-                    header = GalleryLoadStateAdapter(galleryPagingAdapter::retry),
-                    footer = GalleryLoadStateAdapter(galleryPagingAdapter::retry)
+                    header = headerLoadStateAdapter,
+                    footer = footerLoadStateAdapter
                 )
             retryButton.setOnClickListener { galleryPagingAdapter.retry() }
             Pair(binding, galleryPagingAdapter).observeAndCollect()
@@ -113,6 +115,16 @@ class GalleryFragment : Fragment() {
                 return false
             }
         })
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.action_settings -> {
+                findNavController().navigate(R.id.action_galleryFragment_to_settingsFragment)
+                true
+            }
+            else -> false
+        }
     }
 
     override fun onDestroy() {

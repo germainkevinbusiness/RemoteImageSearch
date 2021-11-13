@@ -7,7 +7,7 @@ import retrofit2.http.Headers
 import retrofit2.http.Query
 
 /**
- * API interface made to be manipulated by retrofit
+ * Retrofit API interface that defines the server requests as well as the response classes.
  * */
 interface UnsplashApi {
 

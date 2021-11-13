@@ -53,4 +53,16 @@ class MainActivityTest {
         onView(withText(R.string.action_settings)).perform(click())
 
     }
+
+    @Test
+    fun click_on_first_item_below_toolbar() {
+        // First scroll to the position that needs to be matched and click on it.
+        onView(withId(R.id.gallery_recycler_view))
+            .perform(
+                RecyclerViewActions.actionOnItemAtPosition<GalleryPagingAdapter.GalleryViewHolder>(
+                    ITEM_POSITION,
+                    click()
+                )
+            )
+    }
 }
