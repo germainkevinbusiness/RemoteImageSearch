@@ -13,14 +13,14 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ## Video demo
 
-<!-- [Link to the mp4 video demo in the screenshots directory](/screenshots/device-2021-11-12-172727.mp4) -->
-<img src="/screenshots/device-2021-11-12-172727.mp4" alt="Jetpack Compose Samples" width="512" />
+[Link to the mp4 video demo in the screenshots directory](/screenshots/device-2021-11-12-172727.mp4)
 
 ## Screenshots
 
 ### First screenshot
 
 ![Screenshot 1](/screenshots/device-2021-11-12-151237.png)
+<img src="/screenshots/device-2021-11-12-151237.png" alt="Jetpack Compose Samples" width="512" />
 
 ## Second screenshot
 
