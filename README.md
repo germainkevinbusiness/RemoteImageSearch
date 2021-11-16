@@ -21,11 +21,7 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 <img src="/screenshots/device-2021-11-12-151237.png" alt="Jetpack Compose Samples" width="512" />
 
-## Second screenshot
-
 <img src="/screenshots/device-2021-11-12-143839.png" alt="Jetpack Compose Samples" width="512" />
-
-### Third screenshot
 
 <img src="/screenshots/device-2021-11-12-151222.png" alt="Jetpack Compose Samples" width="512" />
 
