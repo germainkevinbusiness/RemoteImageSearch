@@ -17,16 +17,16 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ## Screenshots
 
-<img src="/screenshots/device-2021-11-12-151237.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-151237.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-143839.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-143839.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-151222.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-151222.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-151138.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-151138.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-143904.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-143904.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-150341.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-150341.png" alt="Jetpack Compose Samples" width="360" />
 
-<img src="/screenshots/device-2021-11-12-143646.png" alt="Jetpack Compose Samples" width="480" />
+<img src="/screenshots/device-2021-11-12-143646.png" alt="Jetpack Compose Samples" width="360" />
