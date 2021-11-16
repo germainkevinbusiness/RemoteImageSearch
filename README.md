@@ -19,7 +19,7 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ### First screenshot
 
-![Screenshot 1](/screenshots/device-2021-11-12-151237.png)
+<!-- ![Screenshot 1](/screenshots/device-2021-11-12-151237.png) -->
 <img src="/screenshots/device-2021-11-12-151237.png" alt="Jetpack Compose Samples" width="512" />
 
 ## Second screenshot
