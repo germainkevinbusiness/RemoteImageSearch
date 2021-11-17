@@ -13,7 +13,10 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 
 ## Video demo
 
-[Link to the mp4 video demo in the screenshots directory](/screenshots/device-2021-11-12-172727.mp4)
+<video width="320" height="240" controls>
+  <source src="/screenshots/device-2021-11-12-172727.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 
