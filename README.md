@@ -11,9 +11,9 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata),
 [Kotlin Flows](https://developer.android.com/kotlin/flow).
 
-## Video demo
+## Video demo in the below <video> tag
 
-<video width="320" height="240" controls>
+<video width="320" height="240">
   <source src="/screenshots/device-2021-11-12-172727.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
