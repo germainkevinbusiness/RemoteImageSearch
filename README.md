@@ -18,7 +18,7 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
   Your browser does not support the video tag.
 </video>
 
-## Screenshots Section 1
+## Screenshots
 
 <table>
   <tr>
@@ -32,8 +32,6 @@ technology: [Paging](https://developer.android.com/topic/libraries/architecture/
     <td valign="top"><img src="/screenshots/device-2021-11-12-143904.png" alt="Screenshot #3" width="100%" height="auto"/></td>
   </tr>
  </table>
- 
- ## Screenshots Section 2
 
 <table>
   <tr>
